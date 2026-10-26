@@ -1,0 +1,4 @@
+# Procedencia y recursos
+Este launcher deriva de Quiet Tizen (https://github.com/jss8649/quiet-tizen), MIT. Se conservan su licencia y el aviso de Free My TV, cuyos conceptos visuales se adaptaron en el proyecto de origen. Las ilustraciones de entradas y los SVG de navegación proceden de ese trabajo y de esta adaptación.
+Las fuentes Quiet Inter son derivados de Inter bajo SIL OFL; ver licenses/Inter-OFL.txt. Sus licencias no cambian por la licencia MIT del código.
+No se distribuyen logos de servicios de streaming, fotos del usuario, firmware, SDK, DLL de Samsung, bases de datos, respaldos ni claves. Los iconos de las apps se leen de las aplicaciones instaladas en cada TV. Los nombres de productos y marcas pertenecen a sus titulares. Este proyecto no está afiliado a Samsung ni a los servicios mostrados.

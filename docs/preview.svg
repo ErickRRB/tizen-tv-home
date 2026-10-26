@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" role="img" aria-labelledby="title desc">
+<title id="title">Quiet Home: esquema de navegación</title>
+<desc id="desc">Accesos de búsqueda, ajustes e Inicio Samsung arriba; cuatro entradas en el centro y apps de ejemplo abajo. La primera entrada está seleccionada.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#182533"/><stop offset="1" stop-color="#34344e"/></linearGradient></defs>
+<rect width="1920" height="1080" rx="28" fill="url(#bg)"/>
+<g font-family="sans-serif" fill="#f7f8fc">
+<rect x="1470" y="42" width="112" height="68" rx="20" fill="#ffffff" fill-opacity=".14"/>
+<text x="1526" y="84" text-anchor="middle" font-size="24">Buscar</text>
+<rect x="1600" y="42" width="112" height="68" rx="20" fill="#ffffff" fill-opacity=".14"/>
+<text x="1656" y="84" text-anchor="middle" font-size="24">Ajustes</text>
+<rect x="1730" y="42" width="112" height="68" rx="20" fill="#ffffff" fill-opacity=".14"/>
+<text x="1786" y="84" text-anchor="middle" font-size="24">Samsung</text>
+<rect x="64" y="164" width="430" height="290" rx="24" fill="#6b7eb4" stroke="#b5c8ff" stroke-width="8"/>
+<rect x="194" y="236" width="170" height="112" rx="12" fill="none" stroke="#fff" stroke-width="7" opacity=".8"/>
+<path d="M 259 350 v 28 h 40 v -28" fill="none" stroke="#fff" stroke-width="7" opacity=".8"/>
+<text x="64" y="504" font-size="32">Consola</text>
+<text x="64" y="548" font-size="24" fill="#c2c9d6">HDMI 1</text>
+<rect x="518" y="164" width="430" height="290" rx="24" fill="#8b78a5" stroke="none" stroke-width="8"/>
+<rect x="648" y="236" width="170" height="112" rx="12" fill="none" stroke="#fff" stroke-width="7" opacity=".8"/>
+<path d="M 713 350 v 28 h 40 v -28" fill="none" stroke="#fff" stroke-width="7" opacity=".8"/>
+<text x="518" y="504" font-size="32">PC</text>
+<text x="518" y="548" font-size="24" fill="#c2c9d6">HDMI 2</text>
+<rect x="972" y="164" width="430" height="290" rx="24" fill="#597d83" stroke="none" stroke-width="8"/>
+<rect x="1102" y="236" width="170" height="112" rx="12" fill="none" stroke="#fff" stroke-width="7" opacity=".8"/>
+<path d="M 1167 350 v 28 h 40 v -28" fill="none" stroke="#fff" stroke-width="7" opacity=".8"/>
+<text x="972" y="504" font-size="32">Entrada HDMI</text>
+<text x="972" y="548" font-size="24" fill="#c2c9d6">HDMI 3</text>
+<rect x="1426" y="164" width="430" height="290" rx="24" fill="#967c66" stroke="none" stroke-width="8"/>
+<rect x="1556" y="236" width="170" height="112" rx="12" fill="none" stroke="#fff" stroke-width="7" opacity=".8"/>
+<path d="M 1621 350 v 28 h 40 v -28" fill="none" stroke="#fff" stroke-width="7" opacity=".8"/>
+<text x="1426" y="504" font-size="32">TV</text>
+<text x="1426" y="548" font-size="24" fill="#c2c9d6">Antena / cable</text>
+<rect x="100" y="772" width="136" height="136" rx="20" fill="#ffffff" fill-opacity=".14"/>
+<text x="168" y="856" text-anchor="middle" font-size="40">1</text>
+<text x="168" y="950" text-anchor="middle" font-size="25">App 1</text>
+<rect x="276" y="772" width="136" height="136" rx="20" fill="#ffffff" fill-opacity=".14"/>
+<text x="344" y="856" text-anchor="middle" font-size="40">2</text>
+<text x="344" y="950" text-anchor="middle" font-size="25">App 2</text>
+<rect x="452" y="772" width="136" height="136" rx="20" fill="#ffffff" fill-opacity=".14"/>
+<text x="520" y="856" text-anchor="middle" font-size="40">3</text>
+<text x="520" y="950" text-anchor="middle" font-size="25">App 3</text>
+<rect x="628" y="772" width="136" height="136" rx="20" fill="#ffffff" fill-opacity=".14"/>
+<text x="696" y="856" text-anchor="middle" font-size="40">4</text>
+<text x="696" y="950" text-anchor="middle" font-size="25">App 4</text>
+<rect x="804" y="772" width="136" height="136" rx="20" fill="#ffffff" fill-opacity=".14"/>
+<text x="872" y="856" text-anchor="middle" font-size="40">5</text>
+<text x="872" y="950" text-anchor="middle" font-size="25">App 5</text>
+<rect x="980" y="772" width="136" height="136" rx="20" fill="#ffffff" fill-opacity=".14"/>
+<text x="1048" y="856" text-anchor="middle" font-size="40">6</text>
+<text x="1048" y="950" text-anchor="middle" font-size="25">App 6</text>
+<rect x="1156" y="772" width="136" height="136" rx="20" fill="#ffffff" fill-opacity=".14"/>
+<text x="1224" y="856" text-anchor="middle" font-size="40">7</text>
+<text x="1224" y="950" text-anchor="middle" font-size="25">App 7</text>
+<rect x="1332" y="772" width="136" height="136" rx="20" fill="#ffffff" fill-opacity=".14"/>
+<text x="1400" y="856" text-anchor="middle" font-size="40">8</text>
+<text x="1400" y="950" text-anchor="middle" font-size="25">App 8</text>
+</g></svg>

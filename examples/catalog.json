@@ -1,0 +1,15 @@
+{
+  "Apps": [
+    {
+      "Id": "org.tizen.netflix-app",
+      "Name": "Netflix",
+      "Icon": ""
+    },
+    {
+      "Id": "9Ur5IzDKqV.TizenYouTube",
+      "Name": "YouTube",
+      "Icon": ""
+    }
+  ],
+  "BaselineIds": []
+}

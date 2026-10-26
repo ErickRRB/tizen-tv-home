@@ -1,0 +1,24 @@
+{
+  "model": "QN75QN70FAGCZB",
+  "firmware": "T-PTMFUABC-0090-1301.0",
+  "tizen": "9.0",
+  "architecture": "armv7 / arm_32",
+  "runtime": "6.0",
+  "container": "com.samsung.tv.bixby-promotion",
+  "assembly": "BixbyPromotion.dll",
+  "resource_directory": "res/quiet-home",
+  "observed_main_home": "com.samsung.tv.csfs",
+  "observed_home_appid": "com.samsung.tv.csfs",
+  "observed_startup": "org.tizen.tv-viewer",
+  "hdmi_source_ids": {
+    "HDMI 1": 13,
+    "HDMI 2": 14,
+    "HDMI 3": 15,
+    "HDMI 4": 16,
+    "TV": 0
+  },
+  "status": "Only exact model/firmware tested; inspect fresh hashes and original selectors on every TV",
+  "original_dll_sha256": "4ac11223f42bc520c0101a0ab369e3ac4899b48f9af437afce59d713793974b7",
+  "original_runtimeconfig_sha256": "1492559e11d2fdbf5a47f1f918d2b9ea9ed723251da9e4e474da2ca0a614db91",
+  "application_uid": 5001
+}

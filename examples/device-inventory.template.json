@@ -1,0 +1,30 @@
+{
+  "purpose": "Private inventory worksheet; not an executable installation profile",
+  "model": null,
+  "firmware": null,
+  "tizen": null,
+  "architecture": null,
+  "dotnet_runtime": null,
+  "access_route_and_version": null,
+  "container": null,
+  "entry_assembly": null,
+  "application_uid": null,
+  "owner_group_permissions_smack": null,
+  "original_dll_sha256": null,
+  "original_runtimeconfig_sha256": null,
+  "main_operation_before": null,
+  "home_appid_before": null,
+  "startup_appid_before": null,
+  "sources": [],
+  "compatibility_gaps": [],
+  "validation": {
+    "inventory": false,
+    "access": false,
+    "build": false,
+    "manual_launch": false,
+    "home_button": false,
+    "restart": false,
+    "standby_wake": false,
+    "rollback": false
+  }
+}

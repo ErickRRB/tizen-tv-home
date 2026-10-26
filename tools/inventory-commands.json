@@ -1,0 +1,5 @@
+[
+  "sqlite3 -readonly -header -csv /opt/dbspace/.pkgmgr_parser.db \"SELECT app_id,app_label,app_icon FROM package_app_localized_info WHERE app_locale='No Locale' ORDER BY app_id;\"",
+  "sqlite3 -readonly -header -csv /opt/dbspace/.pkgmgr_parser.db \"SELECT app_id FROM package_app_info ORDER BY app_id;\"",
+  "vconftool get db/appfw/home_appid; vconftool get db/appfw/startup_appid; uname -m; readlink -f /usr/share/dotnet.tizen/netcoreapp"
+]

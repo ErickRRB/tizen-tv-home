@@ -1,0 +1,11 @@
+[
+  "id",
+  "uname -m",
+  "readlink -f /usr/share/dotnet.tizen/netcoreapp",
+  "sqlite3 -readonly /opt/dbspace/.pkgmgr_parser.db '.schema package_info'",
+  "sqlite3 -readonly /opt/dbspace/.pkgmgr_parser.db '.schema package_app_info'",
+  "sqlite3 -readonly /opt/dbspace/.pkgmgr_parser.db '.schema package_app_localized_info'",
+  "vconftool get db/appfw/home_appid",
+  "vconftool get db/appfw/startup_appid",
+  "ls -ld /opt/usr/apps/com.samsung.tv.bixby-promotion"
+]
